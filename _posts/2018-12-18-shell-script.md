@@ -13,12 +13,14 @@ $ vi hello.sh
 #!/bin/bash
 echo "Hello, World"
 ```
+<br/>
 
 ## 2. 실행 권한 추가 
 
 ```jshelllanguage
 $ chmod +x hello.sh
 ```
+<br/>
 
 ## 3. 실행 
 
@@ -27,3 +29,4 @@ $ ./hello.sh
 
 Hello, World
 ```
+<br/>
