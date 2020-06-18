@@ -15,6 +15,9 @@ categories: java
 Spring 플랫폼과 third-party 라이브러리를 수용하여, 소란을 최소화 한다.  
 대부분 Spring Boot 애플리케이션은 최소한의 스프링 설정이 필요하다.  
 
+<br/>
+<br/>
+
 ## Features 
 
 > Create stand-alone Spring applications
@@ -41,11 +44,13 @@ Spring 플랫폼과 third-party 라이브러리를 수용하여, 소란을 최�
 
 XML 설정을 위해 코드 작성과 요구사항이 필요없다.
 
+<br/>
+<br/>
 
 ## Getting Started 
 
-##### build.gradle
-###### starter 컴포넌트 추가
+- build.gradle  
+> starter 컴포넌트 추가
 
 ```
 dependencies {
@@ -53,8 +58,8 @@ dependencies {
 }
 ```
 
-##### {PROJECT_NAME}Application.java
-###### `@SpringBootApplication`은 `@EnableAutoConfiguration`, `@ComponentScan` 포함  
+- {PROJECT_NAME}Application.java
+> `@SpringBootApplication`은 `@EnableAutoConfiguration`, `@ComponentScan` 포함  
 
 ```java
 package com.example.myapplication;
