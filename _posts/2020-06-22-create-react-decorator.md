@@ -6,7 +6,7 @@ categories: react
 
 ## Getting Started
 
-```shell script
+```bash
 npx create-react-app my-app
 cd my-app
 yarn start
@@ -16,7 +16,7 @@ yarn start
 
 ### (Optional) babel-eslint version error
 
-```shell script
+```bash
 cat > .env
 SKIP_PREFLIGHT_CHECK=true 
 ^C
@@ -27,11 +27,11 @@ SKIP_PREFLIGHT_CHECK=true
 
 ## Using Decorator
 
-```shell script
+```bash
 yarn eject
 ```
 
-```shell script
+```bash
 yarn add @babel/plugin-proposal-class-properties @babel/plugin-proposal-decorators
 ```
 
