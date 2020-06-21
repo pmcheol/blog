@@ -1,5 +1,5 @@
 ---
-layout: react
+layout: post
 title: "React - create-react-app with decorators"
 categories: react
 ---
