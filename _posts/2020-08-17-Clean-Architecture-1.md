@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clean Architecture 1-2"
+title: "Clean Architecture 1"
 categories: develop
 ---
 
