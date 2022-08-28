@@ -1,23 +1,4 @@
 ---
-layout: default
-title: Home
+layout: home
+background: '/img/bg-index.jpg'
 ---
-
-<div class="home">
-  <div class="post-list">
-
-    {% for post in site.posts limit:20 %}
-
-    {% include post-list.html %}
-
-    {% endfor %}
-
-    <!--div class="pagination older-post">
-      <a href="./archive">
-        <data data-icon="ei-arrow-right"></data>
-        Archive&nbsp;
-      </a>
-    </div-->
-
-  </div>
-</div>
