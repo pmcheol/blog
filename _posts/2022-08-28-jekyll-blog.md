@@ -9,8 +9,6 @@ categories: Jekyll
 
 Ruby 기반으로 만든 설치형 블로그
 
-<br/>
-
 ## Getting Started
 
 ```bash
